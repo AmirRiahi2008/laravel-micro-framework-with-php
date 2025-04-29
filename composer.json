@@ -1,0 +1,21 @@
+{
+    "name": "amirr/microframeworklaravel",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Amirreza Riahi",
+            "email": "amirreza.riahi3311@gmail.com"
+        }
+    ],
+    "require": {
+        "catfan/medoo": "^2.2",
+        "vlucas/phpdotenv": "^5.6",
+        "fakerphp/faker": "^1.24",
+        "hisorange/browser-detect": "^4.5"
+    }
+}
