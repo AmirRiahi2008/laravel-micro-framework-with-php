@@ -32,6 +32,6 @@ To set up this project locally, follow these steps:
 
 ### 1. Clone the repository
 
-`bash
+```bash
 git clone https://github.com/AmirRiahi2008/laravel-micro-framework-with-php.git
 cd laravel-micro-framework-with-php
