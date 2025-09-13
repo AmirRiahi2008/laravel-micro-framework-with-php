@@ -7,3 +7,4 @@ Routes::get("/php-expert/Mini%20Projects/Micro%20Framework%20Laravel/colors/red"
 Routes::get("/php-expert/Mini%20Projects/Micro%20Framework%20Laravel/colors/green" , "ColorsController@green");
 Routes::get("/php-expert/Mini%20Projects/Micro%20Framework%20Laravel/colors/purple" , "ColorsController@purple");
 Routes::get("/php-expert/Mini%20Projects/Micro%20Framework%20Laravel/posts/{pid}/comments/{cid}" , "PostsController@index");
+// Routes::get("/php-expert/Mini%20Projects/Micro%20Framework%20Laravel/posts/{pid}" , "PostsController@index");
